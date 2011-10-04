@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: lucinka
+Created-By: Apache Maven
+Build-Jdk: 1.7.0
+Extension-Name: ComputerQueue
+Implementation-Title: ComputerQueue
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: jenkins.ci.plugins.computerqueue
+Short-Name: ComputerQueue
+Long-Name: ComputerQueue
+Url: http://jenkins-ci.org/plugin/ComputerQueue/
+Plugin-Version: 1.0-SNAPSHOT (private-10/04/2011 09:44-lucinka)
+Hudson-Version: 1.434-SNAPSHOT
+Jenkins-Version: 1.434-SNAPSHOT
+Plugin-Developers: 
+
