@@ -1,5 +1,0 @@
-<l:dependencies xmlns:l='licenses'>
-  <l:dependency name='ComputerQueue' groupId='jenkins.ci.plugins.computerqueue' artifactId='ComputerQueue' version='1.0-SNAPSHOT' url='http://jenkins-ci.org/plugin/ComputerQueue/'>
-    <l:description />
-  </l:dependency>
-</l:dependencies>
